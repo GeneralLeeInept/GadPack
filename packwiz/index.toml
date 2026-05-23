@@ -21,11 +21,6 @@ hash = "ec1ac7f255edec075ade674233f4e1216aa1e88a1eb5147f1babd3a8e9f52874"
 metafile = true
 
 [[files]]
-file = "mods/exotelcraft.pw.toml"
-hash = "9e010f28543b431c26da0440ef8ca58f2424a498a1b0c5e3525b8018c4f3539b"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "2a77dc7aade5de6d21315582c4b70db40ff2bdf746b61c10d7ad3c5be8422f75"
 metafile = true
