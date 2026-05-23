@@ -1,0 +1,13 @@
+name = "GadPack"
+author = "G&D"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "4115b82b585c67c12134adb16517ca4626a9e7ad51f53d423751f32b89ac9afb"
+
+[versions]
+fabric = "0.19.2"
+minecraft = "26.1.2"

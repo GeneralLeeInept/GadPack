@@ -1,0 +1,13 @@
+name = "woodwalkers"
+filename = "walkers-fabric-8.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Sr1HeD8z/versions/BnyexMxY/walkers-fabric-8.1.jar"
+hash-format = "sha512"
+hash = "3fa84f0da9d3949a7d31bfe9bbb7ea56d0150dae66fb7ab5de89d15615911b26ea72f30a8b6565f3ed629807521b7df53484c02fa77e6127fb29282ae83e68b6"
+
+[update]
+[update.modrinth]
+mod-id = "Sr1HeD8z"
+version = "BnyexMxY"

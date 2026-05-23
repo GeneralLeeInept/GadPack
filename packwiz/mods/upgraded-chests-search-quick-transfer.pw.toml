@@ -1,0 +1,13 @@
+name = "Upgraded Chests: Search & Quick-Transfer"
+filename = "upgraded-chests-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gie37Jxu/versions/kid65Nb1/upgraded-chests-1.0.0.jar"
+hash-format = "sha512"
+hash = "881501583070559fbef2ef0334c5f16d14d425c1f4fc2e1d8f8e625691e5c99663128de08312cb1c5f76e9d054869ef0c3fbeb0106f15a1a5619e9e8ae31827b"
+
+[update]
+[update.modrinth]
+mod-id = "gie37Jxu"
+version = "kid65Nb1"

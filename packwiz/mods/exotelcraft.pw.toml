@@ -1,0 +1,13 @@
+name = "Exotelcraft"
+filename = "Exotelcraft-6.4.0-RELEASE-for-MC-26.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/b858VmqC/versions/3BuE5QcQ/Exotelcraft-6.4.0-RELEASE-for-MC-26.1.jar"
+hash-format = "sha512"
+hash = "c8c4afd820203e7d9e36afdbab2feb94e7ea1352bf3e74e98ffb770f32fda341a832082022f1a1452eb487a86fa0566d9d87738e24e192290c0a751bcaa1aba2"
+
+[update]
+[update.modrinth]
+mod-id = "b858VmqC"
+version = "3BuE5QcQ"

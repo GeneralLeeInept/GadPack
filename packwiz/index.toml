@@ -1,0 +1,161 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "2d3b1944bc7916b8e57460d7eb342c73566e15393ddb6483c71f2336bab6200c"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "a7549d639da1b91e6a4c921c2959436a78d58118f983fb89fd7ba99feebc4837"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "5b76acfd3274e8b3ac95ba027725303763cc27e60c352ab4f7b58563d0f0f6a7"
+metafile = true
+
+[[files]]
+file = "mods/crafted-core.pw.toml"
+hash = "ec1ac7f255edec075ade674233f4e1216aa1e88a1eb5147f1babd3a8e9f52874"
+metafile = true
+
+[[files]]
+file = "mods/exotelcraft.pw.toml"
+hash = "9e010f28543b431c26da0440ef8ca58f2424a498a1b0c5e3525b8018c4f3539b"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "2a77dc7aade5de6d21315582c4b70db40ff2bdf746b61c10d7ad3c5be8422f75"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "337d97b990f76c91584b12600651ae7bd47a0824e45070b3d9330b0922149fc0"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "451f8726db7533de82a17cc902fe6053dcd82f968442c17d507d0373de02ddd0"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "73838bd3377c35a6da4b6959dc77e6fa5aecbfc2922ca45c6a35f0febf8b7ae2"
+metafile = true
+
+[[files]]
+file = "mods/jamlib.pw.toml"
+hash = "42957e29d884cf356435bf4f9fde3a31e8a0cca2de401e77e964792f4229bcec"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "23dfca974c4a57380921a16b9b091f1c8c53aed7be0a98baf78b5274e57f1451"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "ceed226223967ea3e7017aad327a069250c289c834766e1a3cd27c8d0ad52de1"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "89fcae9fccf6aec59355405e1160ed15d523c34e08e555a0da6f46fb8a5087fe"
+metafile = true
+
+[[files]]
+file = "mods/polymer.pw.toml"
+hash = "82444cf678a1f7302d1fb0c6b6f0e45882e8d264fcfcee63c0e31f238d665ccf"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage-jei-integration.pw.toml"
+hash = "353b9b4555c98d6ab708c32cde8f5f0c5140427d526c1e3c3761e5eb3dc548d6"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage.pw.toml"
+hash = "b90c8e98b344f5f5f706ccc4d8b41ea749ecbc1cc0708cf6efe48d28c1820769"
+metafile = true
+
+[[files]]
+file = "mods/remorphed.pw.toml"
+hash = "3b6472f476be4f77ff9c0e63124db40377752f9b5441ba9b624ef53b28766e3f"
+metafile = true
+
+[[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "e150f878c499420771611573124cb438b1b9d831bc86ef00c9e5e7afccbad5e9"
+metafile = true
+
+[[files]]
+file = "mods/shogi.pw.toml"
+hash = "0d564e2898096f0399a0b0c10d1baf63c6e8a2885ad32b09550631113962f69d"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "e5278cc1dcda4fe789eaf05318fa5885f9f3412685f8ac231fe9a395409089e0"
+metafile = true
+
+[[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "dea90f0c0d32c67bed0f79bad036b0936931174be214bc05053f35b1cd1a3fa8"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "27e83db4ce5d610b8e79dfc7914922e3ba3fa6737d476425ee7c62562a4fad3d"
+metafile = true
+
+[[files]]
+file = "mods/upgraded-chests-search-quick-transfer.pw.toml"
+hash = "acba8c5c4453eb143f39b73349e00faaee9f629a4cee0bc27f58fb80d6ba183c"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "ea12f0cac291c70ba1b398cca8877e4415a46e2172603f4beb59427db52f02bc"
+metafile = true
+
+[[files]]
+file = "mods/woodwalkers.pw.toml"
+hash = "43db3c0826ea563ba6c082b67e88db5c3d87b351f7e58b05217c3b0d2c8c753a"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-maps-x-waystones.pw.toml"
+hash = "f94d47fab8c6b03b28ce0c29eccb717070ec7361ea0dfb80cf06009910b297e8"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "f69228cef8adb3becb463aa2ed728998487fc947d79a3d0e47b8c47c964ce589"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "86237b7e69781303d17f0359da7e79821e1cd86472ebee91b3c0bd8d1abb467e"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "51a17d028bf0d35c66d269185a63ea4adc968f60727454d0f8ed3ef2138f8612"
+metafile = true
+
+[[files]]
+file = "resourcepacks/classic-faithful-32x.pw.toml"
+hash = "18171dad99ac3ce9a8ce114c4ed17ab22cfee19877bc43c6238f2a76dfd24c56"
+metafile = true
+
+[[files]]
+file = "resourcepacks/clearvisionglass-32x-faithful-addon-1.14-1.21.pw.toml"
+hash = "08772246e95705fae1de99174ca947a39ac4b37f9ae6bbdca937a89f7cefb0c4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "213428b7676adfaa1c59fcfe93e6e7f3d0257e236f32a5a245eb0fc966e1b218"
+metafile = true
