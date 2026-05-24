@@ -86,6 +86,11 @@ hash = "e150f878c499420771611573124cb438b1b9d831bc86ef00c9e5e7afccbad5e9"
 metafile = true
 
 [[files]]
+file = "mods/servux.pw.toml"
+hash = "b4a8602b8d5c7da3fa80c6820f8b233a51e39af2b0b85019e301bbd8a70c172c"
+metafile = true
+
+[[files]]
 file = "mods/shogi.pw.toml"
 hash = "0d564e2898096f0399a0b0c10d1baf63c6e8a2885ad32b09550631113962f69d"
 metafile = true
